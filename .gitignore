@@ -26,3 +26,6 @@
 *.png
 *.xls
 Thumbs.db
+
+#always include
+!schematic.png
